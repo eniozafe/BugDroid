@@ -83,3 +83,11 @@ main p {
     padding: 10px;
     text-align: justify;
 }
+
+footer {
+    color: #c5ebd6;
+    background-color: #1a5c37;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
