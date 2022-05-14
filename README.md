@@ -1,2 +1,3 @@
-# BugDroid
- A historia do Bugdroid
+# A historia do bugdroid
+
+ Feito em aula de HTML5 e  CSS3
